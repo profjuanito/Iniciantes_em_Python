@@ -16,5 +16,13 @@ Mostro alguns gráficos para análise de dados
 1. Gráfico de barras
    1. vertical
    2. horizontal
-   3. gru
+   3. agrupadas
+   4. empilhadas
 2. Gráfico de pie
+3. Grafico de Boxplot
+   1. vertical
+   2. horizontal
+   3. Boxplot e 
+4. Gráfico de dispersão
+   1. Ajuste de regressão linear
+5. Distribuição Normal
