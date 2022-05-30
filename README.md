@@ -2,10 +2,10 @@
  Programas para quem começa a programar em Python
 
 
-## Solução de uma equação de segundo grau
+## 1. Solução de uma equação de segundo grau
 
-Programa simples que calcula as raices de uma equação de segundo grau usando Bhaskara
+Programa simples que calcula as raices de uma equação de segundo grau usando _Bhaskara_
 
-## Gráficos 
+## 2. Gráficos 
 
 Mostro alguns gráficos para análise de dados
