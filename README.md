@@ -22,7 +22,7 @@ Mostro alguns gráficos para análise de dados
 3. Grafico de Boxplot
    1. vertical
    2. horizontal
-   3. Boxplot e 
+   3. Boxplot e stripplot
 4. Gráfico de dispersão
    1. Ajuste de regressão linear
 5. Distribuição Normal
