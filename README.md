@@ -19,7 +19,7 @@ Mostro alguns gráficos para análise de dados
    3. Agrupadas
    4. Empilhadas
 2. Gráfico de Pie
-3. Grafico de Boxplot
+3. Gráfico de Boxplot
    1. Vertical
    2. Horizontal
    3. Boxplot e Stripplot
