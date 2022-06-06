@@ -6,7 +6,7 @@
 
 Programa simples que calcula as raices de uma equação de segundo grau usando _Bhaskara_
 
-aproveito para mostrar que é possivel usa os comandos do latex (para uma melhor apresentação dos textos) junto com Phyton.
+Aproveito para mostrar que é possivel usar os comandos do latex (para uma melhor apresentação dos textos) junto com Phyton.
 
 
 ## 2. Gráficos 
