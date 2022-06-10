@@ -4,9 +4,9 @@
 
 ## 1. Solução de uma equação de segundo grau
 
-Programa simples que calcula as raices de uma equação de segundo grau usando _Bhaskara_
+Programa simples que calcula as raices de uma equação de segundo grau usando _Bhaskara_.
 
-Aproveito para mostrar que é possivel usar os comandos do latex (para uma melhor apresentação dos textos) junto com Phyton.
+Aproveito para mostrar que é possivel usar os comandos do latex (para uma melhor apresentação dos textos) junto com Python.
 
 
 ## 2. Gráficos 
