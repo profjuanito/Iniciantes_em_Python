@@ -26,3 +26,7 @@ Mostro alguns gráficos para análise de dados
 4. Gráfico de dispersão
    1. Ajuste de Regressão Linear
 5. Distribuição Normal
+
+## 3. Gráficos Scatter Plot
+
+Mostra-se gráficos usando a biblioteca Scatter Plot. O script corresponde as aulas feitas no curso de Data Science da Flai.
