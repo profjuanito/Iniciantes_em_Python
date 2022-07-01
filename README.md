@@ -30,3 +30,8 @@ Mostro alguns gráficos para análise de dados
 ## 3. Gráficos Scatter Plot
 
 Mostra-se gráficos usando a biblioteca Scatter Plot. O script corresponde as aulas feitas no curso de Data Science da Flai.
+
+
+## 3. Formatacao Tabelas
+
+O script corresponde as aulas feitas no curso de Data Science da Flai.
